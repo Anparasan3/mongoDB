@@ -36,3 +36,9 @@ open composs
 new connections > mongodb://localhost/mydb > connect
 
 
+
+## linux debian 
+## https://www.mongodb.com/docs/v5.0/tutorial/install-mongodb-on-debian/
+
+
+
