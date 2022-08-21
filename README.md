@@ -40,5 +40,16 @@ new connections > mongodb://localhost/mydb > connect
 ## linux debian 
 ## https://www.mongodb.com/docs/v5.0/tutorial/install-mongodb-on-debian/
 
+sudo systemctl start mongod
+
+if start cmd failed => sudo systemctl daemon-reload
+
+sudo systemctl status mongod
+sudo systemctl enable mongod
+
+sudo systemctl stop mongod
+
+sudo systemctl restart mongod
+
 
 
