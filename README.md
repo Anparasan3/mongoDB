@@ -52,4 +52,5 @@ sudo systemctl stop mongod
 sudo systemctl restart mongod
 
 
-
+## ubunthu
+https://hevodata.com/blog/install-mongodb-on-ubuntu/
