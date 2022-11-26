@@ -54,3 +54,8 @@ sudo systemctl restart mongod
 
 ## ubunthu
 https://hevodata.com/blog/install-mongodb-on-ubuntu/
+
+
+## ubuntu v6
+https://www.youtube.com/watch?v=uBudn-BzLms
+
